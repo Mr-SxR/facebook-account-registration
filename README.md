@@ -225,6 +225,14 @@ This tool is provided for **educational and research purposes only**. The author
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801858094178)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sifathub)
 
+
+> Feel free to reach out for any questions, issues, or custom requests.
+
 ---
 
+<div align="center">
+
 *Developed & Open-Sourced by **[Mr-SxR](https://github.com/Mr-SxR)** — Speciality & Reliability*
+
+</div>
+
